@@ -13,5 +13,5 @@ search = GSearch()
 
 ### run
 ```python
-data = search.run(query='Sexualité humaine')
+data = search.run(query='data science')
 ```

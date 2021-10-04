@@ -1,9 +1,10 @@
-# crawlers
-helpers for scrapping and crawlers for different sources.
+# scrap
 
-# install
+This project was mainly a data engineering project.
 
-```commandline
-git clone https://github.com/mouhcineDasec/crawlers
-pip install -e crawlers
-```
+- different apis to scrap data from social media.
+- extract multiple informations based on keywords.
+## fun parts: 
+- it was fun to learn about the format of raw data, to process it in order to use it in models. 
+- this work has made me appreciate the organized data that i usually work with in data science project.
+

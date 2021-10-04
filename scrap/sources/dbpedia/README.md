@@ -13,7 +13,7 @@ dbpedia = Dbpedia()
 
 ### run
 ```python
-data = dbpedia.get_related(term='Sex_education', 
+data = dbpedia.get_related(term='Data Science', 
                            limit=20,
                            lang="en")
 ```
