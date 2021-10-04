@@ -1,0 +1,12 @@
+beautifulsoup4~=4.9.3
+requests~=2.25.1
+selenium~=3.141.0
+setuptools~=52.0.0
+bs4~=0.0.1
+fuckit~=4.8.1
+lxml~=4.6.3
+
+sparqlwrapper~=1.8.5
+pandas~=1.2.4
+instagrapi~=1.8.4
+pymongo~=3.12.0
